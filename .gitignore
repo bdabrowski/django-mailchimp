@@ -4,3 +4,5 @@
 .project
 django_mailchimp.egg-info
 dist
+.idea
+build
